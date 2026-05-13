@@ -1,0 +1,6 @@
+requests
+colorama
+psutil
+cryptography
+pyfiglet
+python-whois
