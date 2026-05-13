@@ -3,7 +3,7 @@
 # Screenshots
 
 ## Main Menu
-![Menu](screenshots/C__Windows_py.exe 13-05-2026 09_17_17.png)
+![Menu](screenshots/menu.png)
 
 Educational Python cybersecurity toolkit.
 
