@@ -1,2 +1,34 @@
-# CyberToolkit
-A powerful Python cybersecurity toolkit for ethical learning, networking utilities, system analysis, and security testing.
+# Cyber Toolkit
+
+Educational Python cybersecurity toolkit.
+
+## Features
+- IP Lookup
+- Port Scanner
+- DNS Lookup
+- WHOIS Lookup
+- Password Strength Checker
+- File Encryptor
+- Hash Generator
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run
+
+python cyber_toolkit.py
+
+## Disclaimer
+
+This project is made for:
+- Educational purposes
+- Ethical cybersecurity learning
+- Personal system/network testing only
+
+The creator is not responsible for:
+- Misuse
+- Illegal activities
+- Unauthorized scanning or attacks
+
+Use responsibly and legally.
